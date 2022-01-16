@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2Math", "Task2Math\Task2Math.csproj", "{6DDDB649-6692-4A74-95A8-DD78FE8DD5DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DDDB649-6692-4A74-95A8-DD78FE8DD5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DDDB649-6692-4A74-95A8-DD78FE8DD5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DDDB649-6692-4A74-95A8-DD78FE8DD5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DDDB649-6692-4A74-95A8-DD78FE8DD5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C8B0BE-8781-415D-923A-90808A1C9114}
+	EndGlobalSection
+EndGlobal
